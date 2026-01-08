@@ -3,9 +3,6 @@
   "features": {
     "ghcr.io/devcontainers/features/python:1": {
       "version": "latest"
-    },
-    "ghcr.io/devcontainers-extra/features/claude-code:1": {
-      "version": "latest"
     }
   }
 }
